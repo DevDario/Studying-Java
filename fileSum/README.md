@@ -1,5 +1,3 @@
-<style>*{scroll-behavior:smooth;}</style>
-
 <div id="top">
 
 ### File Exercice
@@ -111,7 +109,7 @@ Copyright (C) Microsoft Corporation. Todos os direitos reservados.
 
 PS C:\Users\yourName\Desktop\Studying Java\fileSum\fileSum>  & 'C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe' '-agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:53024' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\yourName\Desktop\Studying Java\fileSum\fileSum\bin' 'App'
 Your file was successfully created
-Result: 'result will be were'
+Result: 'result will be here'
 PS C:\Users\yourName\Desktop\Studying Java\fileSum\fileSum>
 
 ```
